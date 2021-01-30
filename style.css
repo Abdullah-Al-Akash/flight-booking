@@ -6,9 +6,7 @@
     list-style-type: none;
 }
 body{
-    font-family: 'Roboto', sans-serif;
-    
-    
+    font-family: 'Roboto', sans-serif;   
 }
 #first-section{
     background-image: url("images/bg.png");
@@ -17,7 +15,6 @@ body{
     background-attachment: scroll;
     background-size: cover;
 }
-
 nav{
     height: 50px;
     width: 100%;
@@ -109,7 +106,6 @@ nav ul li a:hover, a.active{
     font-weight: 400;
     margin-bottom: 25px;
 }
-
 .btn-style{
     display: block;
     width: 100%;
@@ -138,7 +134,6 @@ table {
     border-collapse: collapse;
     width: 100%;
   }
-  
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
